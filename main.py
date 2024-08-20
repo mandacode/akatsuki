@@ -1,6 +1,5 @@
 def main():
-	# some instructions here
-	# for now it does not matter
+	print("Welcome to The Akatsuki!")
 
 
 if __name__ == "__main__":
